@@ -9,4 +9,10 @@ This script processes geographical data using Pandas and GeoPandas. It reads a C
 - GeoPandas
 - Shapely
 
-You can install the required packages using pip: pip install Shapely pip install GeoPandas pip install Pandas
+You can install the required packages using pip: 
+```
+pip install Shapely
+pip install GeoPandas
+pip install Pandas
+```
+
